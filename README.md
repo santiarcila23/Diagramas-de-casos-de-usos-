@@ -68,13 +68,13 @@ Gestiona los planes disponibles y los contratos firmados con los clientes.
    ```
    telecomsys/
    ├── README.md
-   ├── diagrama/
-       ├── casos_de_uso_telecomsys.png
-       └── casos_de_uso_telecomsys.pdf
+   ├── Link_del_diagrama
+   ├── captura_del_diagrama.png
+       
   
    ```
 
-3. **Ver el diagrama:** Abre el archivo `.png` de la carpeta diagrama directamente en el navegador o en cualquier visor de imágenes.
+3. **Ver el diagrama:** Abre el archivo `.png` directamente en el navegador o en cualquier visor de imágenes.
 
 ---
 
